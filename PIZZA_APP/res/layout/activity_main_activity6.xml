@@ -1,0 +1,28 @@
+<TableLayout  
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/tableLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#aaaaaa" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+            <TextView
+               android:id="@+id/editText1"
+               android:layout_width="fill_parent"
+               android:layout_height="fill_parent" 
+               android:text="@string/Name"
+               android:layout_weight="1"></TextView>
+            <TextView
+               android:id="@+id/editText2"
+               android:layout_width="fill_parent"
+               android:layout_height="fill_parent" 
+               android:text="@string/Age"
+               android:layout_weight="1"></TextView>
+            
+        </TableRow>
+
+    </TableLayout>

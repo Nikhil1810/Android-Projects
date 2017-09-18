@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.example.pizza_app"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="org.example.pizza_app.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2"
+            android:label="@string/title_activity_main_activity2" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity3"
+            android:label="@string/title_activity_main_activity3" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity4"
+            android:label="@string/title_activity_main_activity4" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2001"
+            android:label="@string/title_activity_main_activity2001" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2002"
+            android:label="@string/title_activity_main_activity2002" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2003"
+            android:label="@string/title_activity_main_activity2003" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2004"
+            android:label="@string/title_activity_main_activity2004" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2005"
+            android:label="@string/title_activity_main_activity2005" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2006"
+            android:label="@string/title_activity_main_activity2006" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2007"
+            android:label="@string/title_activity_main_activity2007" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2008"
+            android:label="@string/title_activity_main_activity2008" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2009"
+            android:label="@string/title_activity_main_activity2009" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2016"
+            android:label="@string/title_activity_main_activity2016" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2017"
+            android:label="@string/title_activity_main_activity2017" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2018"
+            android:label="@string/title_activity_main_activity2018" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2019"
+            android:label="@string/title_activity_main_activity2019" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2020"
+            android:label="@string/title_activity_main_activity2020" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2010"
+            android:label="@string/title_activity_main_activity2010" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2011"
+            android:label="@string/title_activity_main_activity2011" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2012"
+            android:label="@string/title_activity_main_activity2012" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2013"
+            android:label="@string/title_activity_main_activity2013" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2014"
+            android:label="@string/title_activity_main_activity2014" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity6"
+            android:label="@string/title_activity_main_activity6" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2021"
+            android:label="@string/title_activity_main_activity2021" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2022"
+            android:label="@string/title_activity_main_activity2022" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2023"
+            android:label="@string/title_activity_main_activity2023" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2024"
+            android:label="@string/title_activity_main_activity2024" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2025"
+            android:label="@string/title_activity_main_activity2025" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity2026"
+            android:label="@string/title_activity_main_activity2026" >
+        </activity>
+        <activity
+            android:name="org.example.pizza_app.MainActivity7"
+            android:label="@string/title_activity_main_activity7" >
+        </activity>
+    </application>
+
+</manifest>
